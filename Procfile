@@ -1,1 +1,1 @@
-web: bin/hubot --save hubot-hipchat
+web: bin/hubot --adapter hipchat
